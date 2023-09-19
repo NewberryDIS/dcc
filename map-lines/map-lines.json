@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"title": "Decoding Lines in a Map",
+		"author": "Dr. David Weimer"
+	},
+	"sources": [
+		{
+			"id": "1",
+			"type": "iiifImage",
+			"imageEndpoint": "https://collections.newberry.org/IIIF3/Image/2KXJ8ZWQ2ML7/info.json"
+		}
+	],
+	"scenes": [
+		{
+			"source": "1",
+			"caption": {
+				"text": "This is a map with a lot of lines."
+			}
+		},
+		{
+			"source": "1",
+			"caption": {
+				"text": "Boy what a lot of lines."
+			}
+		
+			}
+	]
+}
